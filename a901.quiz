@@ -39,32 +39,36 @@ url: http://urbaninstitute.github.io/quick-quiz/
   A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
 
 
-4) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
+4) Which of the following allows a processor to execute instructions and to read and write data at a higher speed than the regular RAM?
+  - CAS latency 
+  - Clock multiplier
+  - Memory bus
+  * Cache memory
 
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+Cache memory is a random access memory located closer to a processor and allows the processor to execute instructions and to read and write data at a higher speed than the regular RAM. It is most often implemented with SRAM.
 
+Clock multiplier measures the ratio of the internal bus speed to the external bus speed in a CPU.
 
-
-5) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+Memory bus also known as a system bus, front side bus, local bus, or host bus. It handles traffic between the CPU, the chipset, and RAM.
 
 
-6) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
 
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+5) Which of the following RAID levels uses a minimum of four disks, in two disk mirrored blocks?
+  - RAID 0
+  * RAID 10
+  - RAID 1
+  - RAID 5
+
+  RAID 10, or RAID 1+0, combines two RAID levels into one. It uses RAID 1 and RAID 0 to provide both mirroring from level 1 and striping from level 0. RAID 10 uses a minimum of four disks, in two disk mirrored blocks. This configuration gives you better performance and system redundancy.
+
+
+6) A technician has installed an eight-port device that receives a signal through port four. It then transmits the signal out to ports one, two, three, five, six, seven, and eight without any signal regeneration. Which type of device has the technician installed?
+  * Passive hub
+  - Active hub
+  - Router
+  - Switch
+
+  A hub is a hardware device that operates at the Physical layer (Layer 1) of the OSI model to connect computers in a network. Hubs are very simple device and possess no decision-making capability. They simply repeat and forward the data received on one port to all the other ports. There are two primary types of hub: passive and active. A passive hub sends received signals out through all of its ports except the one through which the signal was received. It does not amplify or regenerate the signal, as it does not have its own power source. This type of hub is used mainly to provide communication flow through the network. An active hub also sends data out all of its ports except the one through which the signal was received, but amplifies or regenerates the signal, as it sends it out the ports. Therefore, it does require electricity to operate. It can effectively double the length of the network segment. For example, you can extend an Ethernet segment to 200 meters (656 feet), rather than its usual 100 meters (328 feet), by placing a hub at the midpoint of the segment.
 
 
 7) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
