@@ -8,7 +8,7 @@
       ],
       "correct": {
         "index": 0,
-        "text": "// this is a reponse text paragraph"
+        "text": "The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt."
       },
       "number": 2,
       "prompt": "Which commands can you use to test network connectivity between your workstation and the server?"

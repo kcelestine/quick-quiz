@@ -21,20 +21,16 @@ url: http://urbaninstitute.github.io/quick-quiz/
   * Using the function keys
   - Using a KVM switch
 
-  // this is a reponse text paragraph
-  // it will be displayed upon answering
-  // the question correctly
   Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard.
+
 
 2) Which commands can you use to test network connectivity between your workstation and the server? 
   * Tracert
   - Ipconfig
   - Nslookup
 
-  // this is a reponse text paragraph
-  // it will be displayed upon answering
-  // the question correctly
   The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt.
+
 
 3) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
   - Do not have moving parts. 
