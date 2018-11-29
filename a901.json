@@ -2,6 +2,20 @@
   "questions": [
     {
       "answers": [
+        "Using Control Panel",
+        "Using Task Manager",
+        "Using the function keys",
+        "Using a KVM switch"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard."
+      },
+      "number": 1,
+      "prompt": "Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?"
+    },
+    {
+      "answers": [
         "Tracert",
         "Ipconfig",
         "Nslookup"
@@ -22,10 +36,24 @@
       ],
       "correct": {
         "index": 1,
-        "text": "// this is a reponse text paragraph"
+        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
       },
       "number": 3,
       "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
+    },
+    {
+      "answers": [
+        "Using Control Panel",
+        "Using Task Manager",
+        "Using the function keys",
+        "Using a KVM switch"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard."
+      },
+      "number": 4,
+      "prompt": "Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?"
     }
   ],
   "title": "Comptia A+ 901 Pre-Assesment",

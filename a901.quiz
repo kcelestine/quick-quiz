@@ -14,8 +14,6 @@ url: http://urbaninstitute.github.io/quick-quiz/
 // within the file
 1) Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?
 
-  // these are answers, a correct answer
-  // is indicated by a "*"
   - Using Control Panel
   - Using Task Manager
   * Using the function keys
@@ -38,8 +36,14 @@ url: http://urbaninstitute.github.io/quick-quiz/
   - Consume less power and produce less heat.
   - More reliable and less susceptible to damage from physical shock.
 
-  // this is a reponse text paragraph
-  // it will be displayed upon answering
-  // the question correctly
   A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
 
+
+4) Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?
+
+  - Using Control Panel
+  - Using Task Manager
+  * Using the function keys
+  - Using a KVM switch
+
+  Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard.
