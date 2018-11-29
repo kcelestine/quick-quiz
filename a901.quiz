@@ -45,12 +45,7 @@ url: http://urbaninstitute.github.io/quick-quiz/
   - Memory bus
   * Cache memory
 
-Cache memory is a random access memory located closer to a processor and allows the processor to execute instructions and to read and write data at a higher speed than the regular RAM. It is most often implemented with SRAM.
-
-Clock multiplier measures the ratio of the internal bus speed to the external bus speed in a CPU.
-
-Memory bus also known as a system bus, front side bus, local bus, or host bus. It handles traffic between the CPU, the chipset, and RAM.
-
+Cache memory is a random access memory located closer to a processor and allows the processor to execute instructions and to read and write data at a higher speed than the regular RAM. It is most often implemented with SRAM. Clock multiplier measures the ratio of the internal bus speed to the external bus speed in a CPU. Memory bus also known as a system bus, front side bus, local bus, or host bus. It handles traffic between the CPU, the chipset, and RAM.
 
 
 5) Which of the following RAID levels uses a minimum of four disks, in two disk mirrored blocks?
@@ -71,7 +66,98 @@ Memory bus also known as a system bus, front side bus, local bus, or host bus. I
   A hub is a hardware device that operates at the Physical layer (Layer 1) of the OSI model to connect computers in a network. Hubs are very simple device and possess no decision-making capability. They simply repeat and forward the data received on one port to all the other ports. There are two primary types of hub: passive and active. A passive hub sends received signals out through all of its ports except the one through which the signal was received. It does not amplify or regenerate the signal, as it does not have its own power source. This type of hub is used mainly to provide communication flow through the network. An active hub also sends data out all of its ports except the one through which the signal was received, but amplifies or regenerates the signal, as it sends it out the ports. Therefore, it does require electricity to operate. It can effectively double the length of the network segment. For example, you can extend an Ethernet segment to 200 meters (656 feet), rather than its usual 100 meters (328 feet), by placing a hub at the midpoint of the segment.
 
 
-7) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+7) A user wants to transfer data from his external hard drive quickly. Which of the following will provide the highest data transfer rates?
+  - RCA
+  - FireWire 400
+  - FireWire 800
+  * USB 3.0
+
+  USB 3.0 provides full duplex communication and maximum speed of 5 Gbps. IEEE 1394a (FireWire 400), which has a maximum data throughput of 400 Mbps, and IEEE 1394b (FireWire 800), which has a maximum data throughput of 800 Mbps.
+
+
+8) A user has 500 MB of data which he wants to store to view or edit at a later time. Which of the following types of media will be suitable for him to use having a maximum capacity of 750 MB?
+  - DVD-R
+  * CD-RW
+  - BD-R
+  - BD-RE
+
+  The capacity of CD-RW ranges from 700 to 860 MB. 
+
+
+9) Which of the following is a non-adjustable measurement of image quality quoted most commonly for LCD and LED displays?
+  - Contrast
+  - Resolution
+  - Brightness
+  * Contrast ratio
+
+  Contrast ratio is the measure of the ratio of the luminance of the brightest color to that of the darkest color that the screen is capable of producing. It is generally a fixed measurement. Contrast is an adjustable setting on all monitors that changes the relative brightness of adjacent pixels. The more contrast, the sharper and edgier the image. Brightness is the amount of light being emitted from a display device. Brightness is measured in lumens, which is the unit of measurement for visible light being emitted from a light source. Resolution is the number of pixels that make up the dimension of a display, represented in a ratio value as the number of horizontal pixels by vertical pixels.
+
+
+10) Which of the following allows you to configure hardware ports and peripherals like, fans and cooling systems, in your system?
+  - CMOS
+  - MBR
+  * BIOS
+  - SFC
+
+  MBR (master boot record) is the first sector of a partitioned storage device, used for booting the computer and often a target of malware. CMOS (complementary metal-oxide semiconductor) is a battery-powered memory chip in your computer that stores startup information. SFC (system file checker) is a Windows utility that scans systems for file corruptions on startup. You can use a PC's BIOS (basic input/output system) or UEFI (unified extensible firmware interface) to troubleshoot problems with the OS. From many BIOS/UEFI utilities, you can:vChange boot order. Configure hardware ports. Configure CPU and GPU (graphic processing unit) settings (voltage, clock value, and so on). Configure peripherals like fans and cooling systems. Configure memory settings. Configure power management settings.
+
+
+11) Which stage of a laser printer process melts the toner onto the paper?
+
+  - Exposing
+  - Transferring
+  * Fusing
+  - Charging
+
+  The drum is first charged to prepare for the writing stage, which charges the print pattern onto the drum. After toner is applied to the drum, the toner is transferred to paper. At this point the toner is melted and fused to the paper by using heat.
+
+
+12) A user brings his PC to a technician reporting that he is unable to connect to the Internet using his phone. Which of the following components needs a replacement to solve this problem?
+  - FireWire card
+  * Modem card
+  - Riser card
+  - Storage card
+
+  A modem card is an inner type of modem plugged into the PCI slot of a PC motherboard. Any computer that connects to the Internet using an analog dial-up connection needs a modem. It provides the interface necessary for remote communications over phone or data lines that have been provided by a cable or Internet service provider.
+
+
+13) A technician, Joe, has replaced a faulty 500 GB hard drive in a PC system with a 1 TB hard drive. However, after the replacement, the computer is still detecting the new 1 TB drive as the older 500 GB drive. What should the technician do to resolve this problem?
+  - Replace the RAM.
+  - Patch the operating system.
+  * Flash the BIOS.
+  - Replace the CMOS battery.
+
+  The technician should flash the BIOS if the new 1 TB drive is not being detected after the replacement. Sometimes, a system doesn't recognize the new installed hardware even if the latest or correct drivers have been installed. Therefore, upgrading the BIOS or flashing the BIOS will help in solving the problem. Before flashing the BIOS, the technician should back up the BIOS settings on a floppy disk and document the complementary metal-oxide semiconductor (CMOS) configuration settings.
+
+
+14) Which of the following protocols and port combinations is used for retrieving emails from a mail server?
+  - SMTP, 25
+  - RDP, 3389
+  * IMAP4, 143
+  - POP3, 143
+
+  Internet Message Access Protocol (IMAP4) is a protocol used for retrieving email messages from a mail server. IMAP4 uses TCP port 143. It is a secure protocol designed to download email. It allows a client to remain connected to the email server after the download. It also allows a client to store the email on the server.
+
+
+15) Which of the following components charges the EP drum of a laser printer?
+  - Toner cartridge 
+  * Primary corona wire
+  - Fuser
+  - Toner
+
+  The primary corona wire is a component that charges the EP drum of a laser printer.
+
+
+16) Which of the following is not a feature of a firewall?
+  - Filters inbound and outbound communication 
+  * Supports server-side scripting to create dynamic web pages
+  - Enables or disables port security on certain ports
+  - Protects systems from malware and spyware
+
+  A firewall provides many features that can be configured to suit various computing needs. It may include: Enabling or disabling port security on certain ports, Filtering inbound and outbound communication, Protecting systems from malware and spyware, Assigning, forwarding, and triggering ports
+
+
+17) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
   - Do not have moving parts. 
   * Have more storage space.
   - Consume less power and produce less heat.
@@ -80,7 +166,16 @@ Memory bus also known as a system bus, front side bus, local bus, or host bus. I
   A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
 
 
-8) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+18) Maria, a network administrator has to configure a file server on her company's network. The company has asked her to choose the best possible method during disk configuration that will provide fault-tolerance with improved performance. Which of the following RAID levels will she choose?
+  - RAID 0
+  - RAID 1
+  - RAID 2
+  * RAID 5
+
+  Maria should use RAID 5. It supports striped-with-parity thus providing backup if the hard drive crashes. It contains a minimum of three disks. In this disk system, data along with its parity bits is stored across multiple disks. When a file is written to a RAID 5 volume, the file splits to all the disks in the set excluding the final disk. The final disk contains the parity information. This parity information allows the disks in the array to keep functioning, in case a disk in the set fails. Due to data redundancy, RAID 5 provides fault tolerance.
+
+
+19) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
   - Do not have moving parts. 
   * Have more storage space.
   - Consume less power and produce less heat.
@@ -89,43 +184,179 @@ Memory bus also known as a system bus, front side bus, local bus, or host bus. I
   A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
 
 
-9) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
+20) You want to make payment at the website of a merchant who uses NFC. Which NFC operating mode should you use?
+  - NFC peer-to-peer mode 
+  - NFC tag
+  - NFC reader/writer mode
+  * NFC card emulation mode
 
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-10) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+  You should use NFC card emulation mode to make payment. This mode enables NFC enabled devices to act like smart cards, allowing users to perform transactions such as payment or ticketing. NFC reader/writer mode allows the device to read information stored in an NFC tag on a label or poster which consists of data. NFC tag consists of NFC data or information which can be read using NFC reader/writer mode. NFC peer-to-peer mode allows for ad hoc data transfer between two NFC enabled devices.
 
 
-1) Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?
+21) To connect to a network printer or shared drive from the command prompt, which command should you use?
 
-  - Using Control Panel
-  - Using Task Manager
-  * Using the function keys
-  - Using a KVM switch
-
-  Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard.
-
-
-2) Which commands can you use to test network connectivity between your workstation and the server? 
-  * Tracert
+  - Netstat
+  * Net use
   - Ipconfig
   - Nslookup
 
-  The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt.
+  The net use command allows you to connect to shared resources such as shared drives and printers on the network.
 
 
-3) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+22) A user, Mary, wants to open a website with SSL encryption. Which of the following TCP ports will she open to successfully complete this action?
+  - 110
+  * 443
+  - 80
+  - 143
+
+  The protocol that uses TCP port 443 is HTTPS.
+
+
+23) A technician while troubleshooting a network issue finds that a layer 2 device is sending frames to all the ports instead of the destination ports. Which of the following devices does the technician need to replace?
+  - Repeater
+  - Hub
+  * Switch
+  - Router
+
+  The technician has to replace the switch. A switch operates at the Data Link layer (Layer 2) of the OSI model and joins multiple computers together within the same LAN. Switches forward data only to the intended destination. They examine the Layer 2 header of the incoming packet and forward it properly to the right port and only that port. Because of this, switches are "smarter" than hubs, and are more common. Switches can also be connected to other switches, thus increasing the number of devices on a LAN without sacrificing performance. Troubleshooting a switch is easier because of the status indicator lights on the individual ports.
+
+
+24) Which of the following displays uses neon rays and a flat panel of glass to provide visuals with high contrast, brightness, and vibrant colors?
+  - LCD
+  * Plasma
+  - OLED
+  - LED
+
+  Plasma display uses neon rays and a flat panel of glass to provide visuals with high contrast, brightness, and vibrant colors that can be viewed from a multitude of angles. However, plasma display is currently only available in very large dimensions, typically 40 inches or more, and is mostly marketed and utilized as television display.
+
+
+
+25) Which of the following standards specifies a type of coaxial cable used for short distance applications, such as carrying composite video between two nearby devices, and has a characteristic impedance of 75 Ohms?
+  - RJ-45
+  - RG-58
+  - MMF
+  * RG-59
+
+  RG-59 is typically used for short distance applications, such as carrying composite video between two nearby devices. This cable type has loss characteristics such that it is not appropriate for long distance applications. An RG-59 cable has a characteristic impedance of 75 Ohms.
+
+
+26) A technician has been asked the company's management to investigate the need of upgrading the company's network from IPv4 to IPv6. Which of the following is not a valid reason for the technician to carry out the required upgrade?
+  * IPv4 is too slow for Internet traffic.
+  - IPv6 can handle the increasing number of hosts easily.
+  - Consume less power and produce less heat.
+  - IPv6 will provide more effective routing.
+
+  IP version 6, or IPv6, is an Internet standard that increases the available pool of IP addresses by implementing a 12-bit binary address space. IPv6 also includes new efficiency features, such as simplified address headers, hierarchical addressing, support for time-sensitive network traffic, and a new structure for unicast addressing. The size of a subnet in IPv6 is 264 addresses (64-bit subnet mask), the square of the size of the entire IPv4 Internet. IPv6 specifies a new packet format, designed to minimize packet-header processing.
+
+
+27) Which of the following display technologies helps in building the thinnest laptop screens?
+  - LCD IPS 
+  - LCD TN
+  * OLED
+  - Plasma
+
+  An organic light-emitting diode (OLED) is a display technology where an organic compound provides the light for the screen, thus eliminating the need for a backlight or inverter. An OLED display works without a backlight. So, it can display deep black levels and can be thinner and lighter than a liquid crystal display (LCD). In low ambient light conditions (such as a dark room), an OLED screen can achieve a higher contrast ratio than an LCD.
+
+
+28) You're responsible for assigning equipment in your company. An employee has requested a docking station. Which of the following would not be a valid reason for the employee to request a docking station?
+  - Need for more USB ports on a laptop
+  - Need to easily plug the laptop into a large monitor
+  * Need to connect multiple printers to a desktop computer
+  - Need for connecting a PS2 keyboard to a laptop
+
+  A docking station is used for laptops, not desktop computers. It is a hardware device that contains slots for expansion cards and storage devices, and ports for peripheral devices such as printers and monitors. It allows laptops to connect to printers, storage devices, and other devices that are not usually available with laptops. It also includes a network interface card that connects a laptop to the network and enables users to use a full-size keyboard when they are not traveling.
+
+29) Your customer wants to make sure that only computers he has authorized can get on his Wi-Fi. What is the most appropriate security measure you can recommend?
+  - WPA encryption
+  * MAC filtering
+  - Multifactor authentication
+  - WEP encryption
+
+  MAC filtering only allows computers that have their MAC address listed with the router to connect. MAC address filtering is a security method that enables a device to allow only certain MAC addresses to access a network. It can be configured on a wireless access point (WAP) to allow only certain system MAC addresses to communicate with the rest of the network.
+
+
+30) If a CPU is overheating, which of the following might be the cause?
+  - The power supply has stopped working.
+  - The CPU has crept out of its socket.
+  - There is grease between the CPU and heat sink.
+  * The heat sink is clogged with dust.
+
+  The heat sink must be kept clear of dust so that the CPU fan can push air through the heat sink and dissipate the heat collected from the surface of the CPU. Thermal compound (or thermal grease) is often quite necessary between the CPU and heat sink to facilitate the transfer of heat to the heat sink.
+
+
+31) Which motherboard component is most likely having an issue if the slower onboard peripherals like USB and LAN ports are not functioning properly?
+  * Southbridge
+  - Northbridge
+  - BIOS
+  - CMOS battery
+
+  The Southbridge is responsible for providing support to the slower onboard peripherals like PS/2, parallel ports, serial ports, USB, LAN, and so on. It manages their communications with the rest of the computer and the resources allotted to them. Southbridge controls input/output functions, the system clock, drives and buses, advanced power management (APM), and various other devices. It uses the PCI bus to communicate with the Northbridge.
+
+
+32) You work as network administrator for McRobert Inc. You want to know the NetBIOS name of your computer. Which of the following commands will you use?
+  * Nbtstat -n
+  - Netstat -n
+  - Nbtstat -s
+  - Netstat -s
+
+  The nbtstat -n displays the list of local NetBIOS names. The nbtstat is a Windows utility used to check the state of current NetBIOS over TCP/IP connections, update the NetBIOS name cache, and determine the registered names and scope IDs.
+
+
+33) Which of the following reflects the media type, bandwidth capacity, and distance limitation combination of 10BASE-T Ethernet?
+  - Coax/10 Mbps/500 m
+  - Cat 5 (or higher) UTP/100 Mbps/100 m
+  * Cat 3 (or higher) UTP/10 Mbps/100 m
+  - Coax/10 Mbps/185 m
+
+  10BASE-T Ethernet uses Cat 3 (or higher) UTP. It has a bandwidth capacity of 10 Mbps, and a distance limitation of 100 m.
+
+
+34) Which of the following devices operates at Layer 2 of the OSI model, separates two LAN segments and takes decisions based on the MAC address?
+  - Router 
+  * Bridge
+  - Firewall
+  - Switch
+
+  A bridge is an interconnectivity device that connects two local area networks (LANs) or two segments of the same LAN using the same communication protocols, and provides address filtering between them. It operates at the Data Link layer of the OSI model.
+
+
+35) Which of the following is a series of system checks performed during the initial bootup of a computer system?
+  - SFC 
+  - Hyper-threading
+  - MBR
+  * POST
+
+  Every computer has a diagnostic program built into its BIOS called the power-on self-test (POST). It is a series of system checks performed by the system BIOS and other high-end components. It runs every time a system starts up. It checks hardware to ensure that everything is present and functioning properly. The POST routine verifies the integrity of the BIOS itself. It also verifies and confirms the size of primary memory. During POST, the BIOS also analyzes and catalogs other forms of hardware, such as buses and boot devices.
+
+
+36) You've been asked to design a SOHO network on a work place. The other offices in the building also have wireless networks. While setting up a wireless network for the SOHO, what will be your initial step?
+  * Run a wireless site survey.
+  - Request neighboring offices to provide their wireless channels.
+  - Install a wireless router at the central location of your office.
+  - Determine the operating system for client computers.
+
+  While setting up a wireless network, run a wireless site survey as your first step to determine the WAP placement. There are two methods for determining a correct WAP placement —an informal site survey and a formal site survey.
+
+
+37) An incorrectly configured firewall on a company's network results in inability to access the company's server using the FTP protocol. Which of the following is the most likely cause?
+  - Outgoing traffic on port 443 is blocked.
+  - Outgoing traffic on port 80 is blocked.
+  * Incoming traffic on port 110 is blocked.
+  - Incoming traffic on port 21 is blocked.
+
+  File Transfer Protocol (FTP) is a TCP/IP protocol that allows transfer of files between a user device and a remote host. The default ports used by FTP are 20 and 21. These ports should only be left open if you specifically use FTP.
+
+
+38) Which unshielded twisted-pair (UTP) category consists of four twisted pairs of copper wire and has transmission rates of up to 100 Mbps?
+  - Category 1
+  - Category 3
+  - Category 4
+  * Category 5
+
+  Category 5 UTP cabling is the most widely used category of UTP cable. It enables transmission rates of up to 100 Mbps.
+
+
+39) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
   - Do not have moving parts. 
   * Have more storage space.
   - Consume less power and produce less heat.
@@ -134,302 +365,64 @@ Memory bus also known as a system bus, front side bus, local bus, or host bus. I
   A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
 
 
-4) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
+40) A user calls a technician and tells him that he had received a hard drive from his friend that has "IEEE 1394" marked on it. He wants to view the content of the drive and wondering which type of cable he would be needing. Which of the following cable types should the technician suggest him?
+  - USB 3.0
+  * FireWire
+  - eSATA
+  - RCA
 
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+  The technician should suggest the user to use a firewire cable for a external hard drive that has "IEEE 1394" marked on it. IEEE 1394 was developed by Apple, which called it FireWire. It is mainly used for high-speed data transfer. Devices that use FireWire connections include external hard drives, video and audio recording devices, and more. FireWire devices can also take advantage of bus mastering, enabling two FireWire devices—such as a digital video camera and an external FireWire hard drive—to communicate directly with each other. FireWire comes in two speeds: IEEE 1394a, which runs at 400 Mbps, and IEEE 1394b, which runs at 800 Mbps. FireWire supports a maximum of 63 devices, compared to USB's 127.
 
 
+41) Which of the following is a typical backlight technology?
+  * CCFL
+  - CRT
+  - TFT
+  - PDP
 
-5) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
+  The laptop display uses a cold cathode fluorescent lamp (CCFL) as its backlight. As its name implies, it is a fluorescent light, and it is generally about 8 inches long and slimmer than a pencil.
 
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
 
+42) John works as a Voice Technologies administrator at a company. His company wants a phone system that can work with a single uninterrupted power supply (UPS) instead of placing a UPS at the location of each IP phone. The company needs an uninterrupted and centralized power distribution for the IP phones without using many cords. Which of the following methods will John use to provide these facilities to his company? 
+  - Install an extension board to distribute power.
+  - Install a UPS with extra ports for distribution.
+  * Supply power to the IP phones through an Ethernet cable (PoE).
+  - Place the IP phones close to a UPS.
 
-6) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
+  John should supply power to the IP phones through an Ethernet cable. This method is also called as PoE (Power over Ethernet). It also became a standard (802.3af) in 2003.
 
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
 
+43) Which is a minimal sort of client that depends heavily on another server to fulfill its computational roles?
+  - Hybrid client
+  * Thin client
+  - Smart client
+  - Thick client
 
-7) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
+  A thin client is a minimal sort of client, as it uses the resources of the host computer to fulfill its computational roles. A thin client only presents processed data provided by an application server, which performs the bulk of any required data processing.
 
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
 
+44) Which of the following protocols is used for transferring files to a remote host in a non-secure fashion?
+  - SSH
+  - Telnet
+  * FTP
+  - RDP
 
-8) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
+  File Transfer Protocol (FTP) is used to transfer files to a remote host in a non-secure fashion. It includes both uploading and downloading files from one host to another. The default ports used by FTP are 20 and 21. These ports should only be left open if you specifically use FTP.
 
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
 
+45) What is the name of the document that many companies develop to specify how clients and support personnel are to interact, what to expect from each other, and what are acceptable timeframes for the resolution of issues?
+  - Service report
+  * Service-level agreement
+  - Operational-level agreement
+  - Underpinning contract
 
-9) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
+  A service-level agreement (SLA) is used to specify how clients and support personnel are to interact, what to expect from each other, and timeframes for the resolution of issues. 
 
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
 
-
-10) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-1) Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?
-
-  - Using Control Panel
-  - Using Task Manager
-  * Using the function keys
-  - Using a KVM switch
-
-  Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard.
-
-
-2) Which commands can you use to test network connectivity between your workstation and the server? 
-  * Tracert
-  - Ipconfig
-  - Nslookup
-
-  The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt.
-
-
-3) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-4) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-
-5) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-6) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-7) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-8) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-9) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-10) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-1) Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?
-
-  - Using Control Panel
-  - Using Task Manager
-  * Using the function keys
-  - Using a KVM switch
-
-  Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard.
-
-
-2) Which commands can you use to test network connectivity between your workstation and the server? 
-  * Tracert
-  - Ipconfig
-  - Nslookup
-
-  The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt.
-
-
-3) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-4) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-
-5) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-6) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-7) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-8) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-9) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-10) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-1) Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?
-
-  - Using Control Panel
-  - Using Task Manager
-  * Using the function keys
-  - Using a KVM switch
-
-  Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard.
-
-
-2) Which commands can you use to test network connectivity between your workstation and the server? 
-  * Tracert
-  - Ipconfig
-  - Nslookup
-
-  The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt.
-
-
-3) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-4) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-
-5) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
-  - More reliable and less susceptible to damage from physical shock.
-
-  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
-
-
-6) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
-  - Do not have moving parts. 
-  * Have more storage space.
-  - Consume less power and produce less heat.
+46) Jennifer prints a document by using a laser printer. She finds that the printed paper has a series of black spots at regular intervals. What is the most likely cause of the issue?
+  - Low heating of the fuser roller
+  - Wrinkled paper
+  * Consume less power and produce less heat.
   - More reliable and less susceptible to damage from physical shock.
 
   A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.

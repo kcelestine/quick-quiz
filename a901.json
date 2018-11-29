@@ -16,62 +16,6 @@
     },
     {
       "answers": [
-        "Using Control Panel",
-        "Using Task Manager",
-        "Using the function keys",
-        "Using a KVM switch"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard."
-      },
-      "number": 1,
-      "prompt": "Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?"
-    },
-    {
-      "answers": [
-        "Using Control Panel",
-        "Using Task Manager",
-        "Using the function keys",
-        "Using a KVM switch"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard."
-      },
-      "number": 1,
-      "prompt": "Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?"
-    },
-    {
-      "answers": [
-        "Using Control Panel",
-        "Using Task Manager",
-        "Using the function keys",
-        "Using a KVM switch"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard."
-      },
-      "number": 1,
-      "prompt": "Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?"
-    },
-    {
-      "answers": [
-        "Using Control Panel",
-        "Using Task Manager",
-        "Using the function keys",
-        "Using a KVM switch"
-      ],
-      "correct": {
-        "index": 2,
-        "text": "Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard."
-      },
-      "number": 1,
-      "prompt": "Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?"
-    },
-    {
-      "answers": [
         "Tracert",
         "Ipconfig",
         "Nslookup"
@@ -82,114 +26,6 @@
       },
       "number": 2,
       "prompt": "Which commands can you use to test network connectivity between your workstation and the server?"
-    },
-    {
-      "answers": [
-        "Tracert",
-        "Ipconfig",
-        "Nslookup"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt."
-      },
-      "number": 2,
-      "prompt": "Which commands can you use to test network connectivity between your workstation and the server?"
-    },
-    {
-      "answers": [
-        "Tracert",
-        "Ipconfig",
-        "Nslookup"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt."
-      },
-      "number": 2,
-      "prompt": "Which commands can you use to test network connectivity between your workstation and the server?"
-    },
-    {
-      "answers": [
-        "Tracert",
-        "Ipconfig",
-        "Nslookup"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt."
-      },
-      "number": 2,
-      "prompt": "Which commands can you use to test network connectivity between your workstation and the server?"
-    },
-    {
-      "answers": [
-        "Tracert",
-        "Ipconfig",
-        "Nslookup"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt."
-      },
-      "number": 2,
-      "prompt": "Which commands can you use to test network connectivity between your workstation and the server?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 3,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 3,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 3,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 3,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
     },
     {
       "answers": [
@@ -217,62 +53,6 @@
     },
     {
       "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 4,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 4,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 4,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 4,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
         "RAID 0",
         "RAID 10",
         "RAID 1",
@@ -284,62 +64,6 @@
       },
       "number": 5,
       "prompt": "Which of the following RAID levels uses a minimum of four disks, in two disk mirrored blocks?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 5,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 5,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 5,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 5,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
     },
     {
       "answers": [
@@ -357,59 +81,17 @@
     },
     {
       "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
+        "RCA",
+        "FireWire 400",
+        "FireWire 800",
+        "USB 3.0"
       ],
       "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
+        "index": 3,
+        "text": "USB 3.0 provides full duplex communication and maximum speed of 5 Gbps. IEEE 1394a (FireWire 400), which has a maximum data throughput of 400 Mbps, and IEEE 1394b (FireWire 800), which has a maximum data throughput of 800 Mbps."
       },
-      "number": 6,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 6,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 6,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 6,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
+      "number": 7,
+      "prompt": "A user wants to transfer data from his external hard drive quickly. Which of the following will provide the highest data transfer rates?"
     },
     {
       "answers": [
@@ -427,59 +109,17 @@
     },
     {
       "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
+        "DVD-R",
+        "CD-RW",
+        "BD-R",
+        "BD-RE"
       ],
       "correct": {
         "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
+        "text": "The capacity of CD-RW ranges from 700 to 860 MB."
       },
-      "number": 7,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 7,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 7,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 7,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
+      "number": 8,
+      "prompt": "A user has 500 MB of data which he wants to store to view or edit at a later time. Which of the following types of media will be suitable for him to use having a maximum capacity of 750 MB?"
     },
     {
       "answers": [
@@ -497,59 +137,17 @@
     },
     {
       "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
+        "Contrast",
+        "Resolution",
+        "Brightness",
+        "Contrast ratio"
       ],
       "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
+        "index": 3,
+        "text": "Contrast ratio is the measure of the ratio of the luminance of the brightest color to that of the darkest color that the screen is capable of producing. It is generally a fixed measurement. Contrast is an adjustable setting on all monitors that changes the relative brightness of adjacent pixels. The more contrast, the sharper and edgier the image. Brightness is the amount of light being emitted from a display device. Brightness is measured in lumens, which is the unit of measurement for visible light being emitted from a light source. Resolution is the number of pixels that make up the dimension of a display, represented in a ratio value as the number of horizontal pixels by vertical pixels."
       },
-      "number": 8,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 8,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 8,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 8,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
+      "number": 9,
+      "prompt": "Which of the following is a non-adjustable measurement of image quality quoted most commonly for LCD and LED displays?"
     },
     {
       "answers": [
@@ -567,59 +165,17 @@
     },
     {
       "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
+        "CMOS",
+        "MBR",
+        "BIOS",
+        "SFC"
       ],
       "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
+        "index": 2,
+        "text": "MBR (master boot record) is the first sector of a partitioned storage device, used for booting the computer and often a target of malware. CMOS (complementary metal-oxide semiconductor) is a battery-powered memory chip in your computer that stores startup information. SFC (system file checker) is a Windows utility that scans systems for file corruptions on startup. You can use a PC's BIOS (basic input/output system) or UEFI (unified extensible firmware interface) to troubleshoot problems with the OS. From many BIOS/UEFI utilities, you can:vChange boot order. Configure hardware ports. Configure CPU and GPU (graphic processing unit) settings (voltage, clock value, and so on). Configure peripherals like fans and cooling systems. Configure memory settings. Configure power management settings."
       },
-      "number": 9,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 9,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 9,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
-    },
-    {
-      "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
-      ],
-      "correct": {
-        "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
-      },
-      "number": 9,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
+      "number": 10,
+      "prompt": "Which of the following allows you to configure hardware ports and peripherals like, fans and cooling systems, in your system?"
     },
     {
       "answers": [
@@ -637,17 +193,87 @@
     },
     {
       "answers": [
-        "Do not have moving parts.",
-        "Have more storage space.",
-        "Consume less power and produce less heat.",
-        "More reliable and less susceptible to damage from physical shock."
+        "Exposing",
+        "Transferring",
+        "Fusing",
+        "Charging"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "The drum is first charged to prepare for the writing stage, which charges the print pattern onto the drum. After toner is applied to the drum, the toner is transferred to paper. At this point the toner is melted and fused to the paper by using heat."
+      },
+      "number": 11,
+      "prompt": "Which stage of a laser printer process melts the toner onto the paper?"
+    },
+    {
+      "answers": [
+        "FireWire card",
+        "Modem card",
+        "Riser card",
+        "Storage card"
       ],
       "correct": {
         "index": 1,
-        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
+        "text": "A modem card is an inner type of modem plugged into the PCI slot of a PC motherboard. Any computer that connects to the Internet using an analog dial-up connection needs a modem. It provides the interface necessary for remote communications over phone or data lines that have been provided by a cable or Internet service provider."
       },
-      "number": 10,
-      "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
+      "number": 12,
+      "prompt": "A user brings his PC to a technician reporting that he is unable to connect to the Internet using his phone. Which of the following components needs a replacement to solve this problem?"
+    },
+    {
+      "answers": [
+        "Replace the RAM.",
+        "Patch the operating system.",
+        "Flash the BIOS.",
+        "Replace the CMOS battery."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "The technician should flash the BIOS if the new 1 TB drive is not being detected after the replacement. Sometimes, a system doesn't recognize the new installed hardware even if the latest or correct drivers have been installed. Therefore, upgrading the BIOS or flashing the BIOS will help in solving the problem. Before flashing the BIOS, the technician should back up the BIOS settings on a floppy disk and document the complementary metal-oxide semiconductor (CMOS) configuration settings."
+      },
+      "number": 13,
+      "prompt": "A technician, Joe, has replaced a faulty 500 GB hard drive in a PC system with a 1 TB hard drive. However, after the replacement, the computer is still detecting the new 1 TB drive as the older 500 GB drive. What should the technician do to resolve this problem?"
+    },
+    {
+      "answers": [
+        "SMTP, 25",
+        "RDP, 3389",
+        "IMAP4, 143",
+        "POP3, 143"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Internet Message Access Protocol (IMAP4) is a protocol used for retrieving email messages from a mail server. IMAP4 uses TCP port 143. It is a secure protocol designed to download email. It allows a client to remain connected to the email server after the download. It also allows a client to store the email on the server."
+      },
+      "number": 14,
+      "prompt": "Which of the following protocols and port combinations is used for retrieving emails from a mail server?"
+    },
+    {
+      "answers": [
+        "Toner cartridge",
+        "Primary corona wire",
+        "Fuser",
+        "Toner"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The primary corona wire is a component that charges the EP drum of a laser printer."
+      },
+      "number": 15,
+      "prompt": "Which of the following components charges the EP drum of a laser printer?"
+    },
+    {
+      "answers": [
+        "Filters inbound and outbound communication",
+        "Supports server-side scripting to create dynamic web pages",
+        "Enables or disables port security on certain ports",
+        "Protects systems from malware and spyware"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "A firewall provides many features that can be configured to suit various computing needs. It may include: Enabling or disabling port security on certain ports, Filtering inbound and outbound communication, Protecting systems from malware and spyware, Assigning, forwarding, and triggering ports"
+      },
+      "number": 16,
+      "prompt": "Which of the following is not a feature of a firewall?"
     },
     {
       "answers": [
@@ -660,8 +286,22 @@
         "index": 1,
         "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
       },
-      "number": 10,
+      "number": 17,
       "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
+    },
+    {
+      "answers": [
+        "RAID 0",
+        "RAID 1",
+        "RAID 2",
+        "RAID 5"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Maria should use RAID 5. It supports striped-with-parity thus providing backup if the hard drive crashes. It contains a minimum of three disks. In this disk system, data along with its parity bits is stored across multiple disks. When a file is written to a RAID 5 volume, the file splits to all the disks in the set excluding the final disk. The final disk contains the parity information. This parity information allows the disks in the array to keep functioning, in case a disk in the set fails. Due to data redundancy, RAID 5 provides fault tolerance."
+      },
+      "number": 18,
+      "prompt": "Maria, a network administrator has to configure a file server on her company's network. The company has asked her to choose the best possible method during disk configuration that will provide fault-tolerance with improved performance. Which of the following RAID levels will she choose?"
     },
     {
       "answers": [
@@ -674,8 +314,274 @@
         "index": 1,
         "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
       },
-      "number": 10,
+      "number": 19,
       "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
+    },
+    {
+      "answers": [
+        "NFC peer-to-peer mode",
+        "NFC tag",
+        "NFC reader/writer mode",
+        "NFC card emulation mode"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "You should use NFC card emulation mode to make payment. This mode enables NFC enabled devices to act like smart cards, allowing users to perform transactions such as payment or ticketing. NFC reader/writer mode allows the device to read information stored in an NFC tag on a label or poster which consists of data. NFC tag consists of NFC data or information which can be read using NFC reader/writer mode. NFC peer-to-peer mode allows for ad hoc data transfer between two NFC enabled devices."
+      },
+      "number": 20,
+      "prompt": "You want to make payment at the website of a merchant who uses NFC. Which NFC operating mode should you use?"
+    },
+    {
+      "answers": [
+        "Netstat",
+        "Net use",
+        "Ipconfig",
+        "Nslookup"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The net use command allows you to connect to shared resources such as shared drives and printers on the network."
+      },
+      "number": 21,
+      "prompt": "To connect to a network printer or shared drive from the command prompt, which command should you use?"
+    },
+    {
+      "answers": [
+        "110",
+        "443",
+        "80",
+        "143"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The protocol that uses TCP port 443 is HTTPS."
+      },
+      "number": 22,
+      "prompt": "A user, Mary, wants to open a website with SSL encryption. Which of the following TCP ports will she open to successfully complete this action?"
+    },
+    {
+      "answers": [
+        "Repeater",
+        "Hub",
+        "Switch",
+        "Router"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "The technician has to replace the switch. A switch operates at the Data Link layer (Layer 2) of the OSI model and joins multiple computers together within the same LAN. Switches forward data only to the intended destination. They examine the Layer 2 header of the incoming packet and forward it properly to the right port and only that port. Because of this, switches are \"smarter\" than hubs, and are more common. Switches can also be connected to other switches, thus increasing the number of devices on a LAN without sacrificing performance. Troubleshooting a switch is easier because of the status indicator lights on the individual ports."
+      },
+      "number": 23,
+      "prompt": "A technician while troubleshooting a network issue finds that a layer 2 device is sending frames to all the ports instead of the destination ports. Which of the following devices does the technician need to replace?"
+    },
+    {
+      "answers": [
+        "LCD",
+        "Plasma",
+        "OLED",
+        "LED"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Plasma display uses neon rays and a flat panel of glass to provide visuals with high contrast, brightness, and vibrant colors that can be viewed from a multitude of angles. However, plasma display is currently only available in very large dimensions, typically 40 inches or more, and is mostly marketed and utilized as television display."
+      },
+      "number": 24,
+      "prompt": "Which of the following displays uses neon rays and a flat panel of glass to provide visuals with high contrast, brightness, and vibrant colors?"
+    },
+    {
+      "answers": [
+        "RJ-45",
+        "RG-58",
+        "MMF",
+        "RG-59"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "RG-59 is typically used for short distance applications, such as carrying composite video between two nearby devices. This cable type has loss characteristics such that it is not appropriate for long distance applications. An RG-59 cable has a characteristic impedance of 75 Ohms."
+      },
+      "number": 25,
+      "prompt": "Which of the following standards specifies a type of coaxial cable used for short distance applications, such as carrying composite video between two nearby devices, and has a characteristic impedance of 75 Ohms?"
+    },
+    {
+      "answers": [
+        "IPv4 is too slow for Internet traffic.",
+        "IPv6 can handle the increasing number of hosts easily.",
+        "Consume less power and produce less heat.",
+        "IPv6 will provide more effective routing."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "IP version 6, or IPv6, is an Internet standard that increases the available pool of IP addresses by implementing a 12-bit binary address space. IPv6 also includes new efficiency features, such as simplified address headers, hierarchical addressing, support for time-sensitive network traffic, and a new structure for unicast addressing. The size of a subnet in IPv6 is 264 addresses (64-bit subnet mask), the square of the size of the entire IPv4 Internet. IPv6 specifies a new packet format, designed to minimize packet-header processing."
+      },
+      "number": 26,
+      "prompt": "A technician has been asked the company's management to investigate the need of upgrading the company's network from IPv4 to IPv6. Which of the following is not a valid reason for the technician to carry out the required upgrade?"
+    },
+    {
+      "answers": [
+        "LCD IPS",
+        "LCD TN",
+        "OLED",
+        "Plasma"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "An organic light-emitting diode (OLED) is a display technology where an organic compound provides the light for the screen, thus eliminating the need for a backlight or inverter. An OLED display works without a backlight. So, it can display deep black levels and can be thinner and lighter than a liquid crystal display (LCD). In low ambient light conditions (such as a dark room), an OLED screen can achieve a higher contrast ratio than an LCD."
+      },
+      "number": 27,
+      "prompt": "Which of the following display technologies helps in building the thinnest laptop screens?"
+    },
+    {
+      "answers": [
+        "Need for more USB ports on a laptop",
+        "Need to easily plug the laptop into a large monitor",
+        "Need to connect multiple printers to a desktop computer",
+        "Need for connecting a PS2 keyboard to a laptop"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "A docking station is used for laptops, not desktop computers. It is a hardware device that contains slots for expansion cards and storage devices, and ports for peripheral devices such as printers and monitors. It allows laptops to connect to printers, storage devices, and other devices that are not usually available with laptops. It also includes a network interface card that connects a laptop to the network and enables users to use a full-size keyboard when they are not traveling."
+      },
+      "number": 28,
+      "prompt": "You're responsible for assigning equipment in your company. An employee has requested a docking station. Which of the following would not be a valid reason for the employee to request a docking station?"
+    },
+    {
+      "answers": [
+        "WPA encryption",
+        "MAC filtering",
+        "Multifactor authentication",
+        "WEP encryption"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "MAC filtering only allows computers that have their MAC address listed with the router to connect. MAC address filtering is a security method that enables a device to allow only certain MAC addresses to access a network. It can be configured on a wireless access point (WAP) to allow only certain system MAC addresses to communicate with the rest of the network."
+      },
+      "number": 29,
+      "prompt": "Your customer wants to make sure that only computers he has authorized can get on his Wi-Fi. What is the most appropriate security measure you can recommend?"
+    },
+    {
+      "answers": [
+        "The power supply has stopped working.",
+        "The CPU has crept out of its socket.",
+        "There is grease between the CPU and heat sink.",
+        "The heat sink is clogged with dust."
+      ],
+      "correct": {
+        "index": 3,
+        "text": "The heat sink must be kept clear of dust so that the CPU fan can push air through the heat sink and dissipate the heat collected from the surface of the CPU. Thermal compound (or thermal grease) is often quite necessary between the CPU and heat sink to facilitate the transfer of heat to the heat sink."
+      },
+      "number": 30,
+      "prompt": "If a CPU is overheating, which of the following might be the cause?"
+    },
+    {
+      "answers": [
+        "Southbridge",
+        "Northbridge",
+        "BIOS",
+        "CMOS battery"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "The Southbridge is responsible for providing support to the slower onboard peripherals like PS/2, parallel ports, serial ports, USB, LAN, and so on. It manages their communications with the rest of the computer and the resources allotted to them. Southbridge controls input/output functions, the system clock, drives and buses, advanced power management (APM), and various other devices. It uses the PCI bus to communicate with the Northbridge."
+      },
+      "number": 31,
+      "prompt": "Which motherboard component is most likely having an issue if the slower onboard peripherals like USB and LAN ports are not functioning properly?"
+    },
+    {
+      "answers": [
+        "Nbtstat -n",
+        "Netstat -n",
+        "Nbtstat -s",
+        "Netstat -s"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "The nbtstat -n displays the list of local NetBIOS names. The nbtstat is a Windows utility used to check the state of current NetBIOS over TCP/IP connections, update the NetBIOS name cache, and determine the registered names and scope IDs."
+      },
+      "number": 32,
+      "prompt": "You work as network administrator for McRobert Inc. You want to know the NetBIOS name of your computer. Which of the following commands will you use?"
+    },
+    {
+      "answers": [
+        "Coax/10 Mbps/500 m",
+        "Cat 5 (or higher) UTP/100 Mbps/100 m",
+        "Cat 3 (or higher) UTP/10 Mbps/100 m",
+        "Coax/10 Mbps/185 m"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "10BASE-T Ethernet uses Cat 3 (or higher) UTP. It has a bandwidth capacity of 10 Mbps, and a distance limitation of 100 m."
+      },
+      "number": 33,
+      "prompt": "Which of the following reflects the media type, bandwidth capacity, and distance limitation combination of 10BASE-T Ethernet?"
+    },
+    {
+      "answers": [
+        "Router",
+        "Bridge",
+        "Firewall",
+        "Switch"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "A bridge is an interconnectivity device that connects two local area networks (LANs) or two segments of the same LAN using the same communication protocols, and provides address filtering between them. It operates at the Data Link layer of the OSI model."
+      },
+      "number": 34,
+      "prompt": "Which of the following devices operates at Layer 2 of the OSI model, separates two LAN segments and takes decisions based on the MAC address?"
+    },
+    {
+      "answers": [
+        "SFC",
+        "Hyper-threading",
+        "MBR",
+        "POST"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Every computer has a diagnostic program built into its BIOS called the power-on self-test (POST). It is a series of system checks performed by the system BIOS and other high-end components. It runs every time a system starts up. It checks hardware to ensure that everything is present and functioning properly. The POST routine verifies the integrity of the BIOS itself. It also verifies and confirms the size of primary memory. During POST, the BIOS also analyzes and catalogs other forms of hardware, such as buses and boot devices."
+      },
+      "number": 35,
+      "prompt": "Which of the following is a series of system checks performed during the initial bootup of a computer system?"
+    },
+    {
+      "answers": [
+        "Run a wireless site survey.",
+        "Request neighboring offices to provide their wireless channels.",
+        "Install a wireless router at the central location of your office.",
+        "Determine the operating system for client computers."
+      ],
+      "correct": {
+        "index": 0,
+        "text": "While setting up a wireless network, run a wireless site survey as your first step to determine the WAP placement. There are two methods for determining a correct WAP placement \u2014an informal site survey and a formal site survey."
+      },
+      "number": 36,
+      "prompt": "You've been asked to design a SOHO network on a work place. The other offices in the building also have wireless networks. While setting up a wireless network for the SOHO, what will be your initial step?"
+    },
+    {
+      "answers": [
+        "Outgoing traffic on port 443 is blocked.",
+        "Outgoing traffic on port 80 is blocked.",
+        "Incoming traffic on port 110 is blocked.",
+        "Incoming traffic on port 21 is blocked."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "File Transfer Protocol (FTP) is a TCP/IP protocol that allows transfer of files between a user device and a remote host. The default ports used by FTP are 20 and 21. These ports should only be left open if you specifically use FTP."
+      },
+      "number": 37,
+      "prompt": "An incorrectly configured firewall on a company's network results in inability to access the company's server using the FTP protocol. Which of the following is the most likely cause?"
+    },
+    {
+      "answers": [
+        "Category 1",
+        "Category 3",
+        "Category 4",
+        "Category 5"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Category 5 UTP cabling is the most widely used category of UTP cable. It enables transmission rates of up to 100 Mbps."
+      },
+      "number": 38,
+      "prompt": "Which unshielded twisted-pair (UTP) category consists of four twisted pairs of copper wire and has transmission rates of up to 100 Mbps?"
     },
     {
       "answers": [
@@ -688,8 +594,106 @@
         "index": 1,
         "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
       },
-      "number": 10,
+      "number": 39,
       "prompt": "Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?"
+    },
+    {
+      "answers": [
+        "USB 3.0",
+        "FireWire",
+        "eSATA",
+        "RCA"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "The technician should suggest the user to use a firewire cable for a external hard drive that has \"IEEE 1394\" marked on it. IEEE 1394 was developed by Apple, which called it FireWire. It is mainly used for high-speed data transfer. Devices that use FireWire connections include external hard drives, video and audio recording devices, and more. FireWire devices can also take advantage of bus mastering, enabling two FireWire devices\u2014such as a digital video camera and an external FireWire hard drive\u2014to communicate directly with each other. FireWire comes in two speeds: IEEE 1394a, which runs at 400 Mbps, and IEEE 1394b, which runs at 800 Mbps. FireWire supports a maximum of 63 devices, compared to USB's 127."
+      },
+      "number": 40,
+      "prompt": "A user calls a technician and tells him that he had received a hard drive from his friend that has \"IEEE 1394\" marked on it. He wants to view the content of the drive and wondering which type of cable he would be needing. Which of the following cable types should the technician suggest him?"
+    },
+    {
+      "answers": [
+        "CCFL",
+        "CRT",
+        "TFT",
+        "PDP"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "The laptop display uses a cold cathode fluorescent lamp (CCFL) as its backlight. As its name implies, it is a fluorescent light, and it is generally about 8 inches long and slimmer than a pencil."
+      },
+      "number": 41,
+      "prompt": "Which of the following is a typical backlight technology?"
+    },
+    {
+      "answers": [
+        "Install an extension board to distribute power.",
+        "Install a UPS with extra ports for distribution.",
+        "Supply power to the IP phones through an Ethernet cable (PoE).",
+        "Place the IP phones close to a UPS."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "John should supply power to the IP phones through an Ethernet cable. This method is also called as PoE (Power over Ethernet). It also became a standard (802.3af) in 2003."
+      },
+      "number": 42,
+      "prompt": "John works as a Voice Technologies administrator at a company. His company wants a phone system that can work with a single uninterrupted power supply (UPS) instead of placing a UPS at the location of each IP phone. The company needs an uninterrupted and centralized power distribution for the IP phones without using many cords. Which of the following methods will John use to provide these facilities to his company?"
+    },
+    {
+      "answers": [
+        "Hybrid client",
+        "Thin client",
+        "Smart client",
+        "Thick client"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "A thin client is a minimal sort of client, as it uses the resources of the host computer to fulfill its computational roles. A thin client only presents processed data provided by an application server, which performs the bulk of any required data processing."
+      },
+      "number": 43,
+      "prompt": "Which is a minimal sort of client that depends heavily on another server to fulfill its computational roles?"
+    },
+    {
+      "answers": [
+        "SSH",
+        "Telnet",
+        "FTP",
+        "RDP"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "File Transfer Protocol (FTP) is used to transfer files to a remote host in a non-secure fashion. It includes both uploading and downloading files from one host to another. The default ports used by FTP are 20 and 21. These ports should only be left open if you specifically use FTP."
+      },
+      "number": 44,
+      "prompt": "Which of the following protocols is used for transferring files to a remote host in a non-secure fashion?"
+    },
+    {
+      "answers": [
+        "Service report",
+        "Service-level agreement",
+        "Operational-level agreement",
+        "Underpinning contract"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "A service-level agreement (SLA) is used to specify how clients and support personnel are to interact, what to expect from each other, and timeframes for the resolution of issues."
+      },
+      "number": 45,
+      "prompt": "What is the name of the document that many companies develop to specify how clients and support personnel are to interact, what to expect from each other, and what are acceptable timeframes for the resolution of issues?"
+    },
+    {
+      "answers": [
+        "Low heating of the fuser roller",
+        "Wrinkled paper",
+        "Consume less power and produce less heat.",
+        "More reliable and less susceptible to damage from physical shock."
+      ],
+      "correct": {
+        "index": 2,
+        "text": "A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives."
+      },
+      "number": 46,
+      "prompt": "Jennifer prints a document by using a laser printer. She finds that the printed paper has a series of black spots at regular intervals. What is the most likely cause of the issue?"
     }
   ],
   "title": "Comptia A+ 901 Pre-Assesment",
