@@ -39,7 +39,71 @@ url: http://urbaninstitute.github.io/quick-quiz/
   A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
 
 
-4) Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?
+4) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+
+5) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+6) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+7) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+8) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+9) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+10) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+1) Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?
 
   - Using Control Panel
   - Using Task Manager
@@ -47,3 +111,359 @@ url: http://urbaninstitute.github.io/quick-quiz/
   - Using a KVM switch
 
   Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard.
+
+
+2) Which commands can you use to test network connectivity between your workstation and the server? 
+  * Tracert
+  - Ipconfig
+  - Nslookup
+
+  The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt.
+
+
+3) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+4) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+
+5) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+6) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+7) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+8) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+9) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+10) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+1) Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?
+
+  - Using Control Panel
+  - Using Task Manager
+  * Using the function keys
+  - Using a KVM switch
+
+  Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard.
+
+
+2) Which commands can you use to test network connectivity between your workstation and the server? 
+  * Tracert
+  - Ipconfig
+  - Nslookup
+
+  The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt.
+
+
+3) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+4) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+
+5) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+6) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+7) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+8) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+9) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+10) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+1) Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?
+
+  - Using Control Panel
+  - Using Task Manager
+  * Using the function keys
+  - Using a KVM switch
+
+  Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard.
+
+
+2) Which commands can you use to test network connectivity between your workstation and the server? 
+  * Tracert
+  - Ipconfig
+  - Nslookup
+
+  The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt.
+
+
+3) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+4) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+
+5) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+6) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+7) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+8) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+9) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+10) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+1) Sofia uses a laptop in her office. She purchases an external monitor to attach it with her laptop. Which of the following is the easiest way to toggle display between the laptop screen and external screen or to show both at the same time?
+
+  - Using Control Panel
+  - Using Task Manager
+  * Using the function keys
+  - Using a KVM switch
+
+  Toggling display between two screens or choosing both screens at a time can be easily accomplished by using the function keys of the keyboard.
+
+
+2) Which commands can you use to test network connectivity between your workstation and the server? 
+  * Tracert
+  - Ipconfig
+  - Nslookup
+
+  The tracert utility is used to trace the path taken by TCP/IP packets to a remote computer. It traces and reports each router or gateway crossed by a TCP/IP packet on its way to the remote host. The tracert utility can be used with the target computer's name or IP address. It is used to detect and resolve network connection problems. Answer C is incorrect. The ipconfig command-line utility displays the current TCP/IP configuration, such as the IP address, subnet mask, default gateway, and so on of a networked computer. Answer D is incorrect. The nslookup is a tool for diagnosing and troubleshooting Domain Name System (DNS) problems. It performs its function by sending queries to the DNS server and obtaining detailed responses at the command prompt.
+
+
+3) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+4) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+
+5) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+6) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+7) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+8) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+9) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
+10) Which of the following is not an advantage of using solid state hard drives (SSD) over traditional magnetic hard drives?
+  - Do not have moving parts. 
+  * Have more storage space.
+  - Consume less power and produce less heat.
+  - More reliable and less susceptible to damage from physical shock.
+
+  A solid-state drive (SSD) uses solid-state memory to store persistent data. SSDs are different from traditional hard disk drives (HDDs), because they have no moving parts, meaning they do not use a read/write assembly. They are not as fragile as magnetic hard drives and are typically less susceptible to physical shock. They are quieter, faster, more reliable, and require less power than magnetic drives.
+
+
